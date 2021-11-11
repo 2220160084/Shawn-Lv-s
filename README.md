@@ -8,3 +8,4 @@ Here, we provide the dependent software information as follows.
 python 3.6.4
 numpy 1.16.0
 matplotlib 2.2.2
+tensorflow 1.13.1
